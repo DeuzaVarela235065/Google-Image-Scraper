@@ -7,7 +7,6 @@ webdriver/chromedriver_win32.zip
 __pycache__/GoogleImageScrappr.cpython-38.pyc
 __pycache__/*
 webdriver/*.zip
-photos
 .ipynb_checkpoints/juypter_main-checkpoint.ipynb
 webdriver/chromedriver.exe
 webdriver/LICENSE.chromedriver
